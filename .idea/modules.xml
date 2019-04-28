@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/test-springcloud.iml" filepath="$PROJECT_DIR$/test-springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-springcloud-eureka-30001/test-springcloud-eureka-30001.iml" filepath="$PROJECT_DIR$/test-springcloud-eureka-30001/test-springcloud-eureka-30001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-springcloud-eureka-30002/test-springcloud-eureka-30002.iml" filepath="$PROJECT_DIR$/test-springcloud-eureka-30002/test-springcloud-eureka-30002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-springcloud-feign-consumer-20020/test-springcloud-feign-consumer-20020.iml" filepath="$PROJECT_DIR$/test-springcloud-feign-consumer-20020/test-springcloud-feign-consumer-20020.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-springcloud-git-demo/test-springcloud-git-demo.iml" filepath="$PROJECT_DIR$/test-springcloud-git-demo/test-springcloud-git-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-springcloud-hello-20001/test-springcloud-hello-20001.iml" filepath="$PROJECT_DIR$/test-springcloud-hello-20001/test-springcloud-hello-20001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-springcloud-hello-20002/test-springcloud-hello-20002.iml" filepath="$PROJECT_DIR$/test-springcloud-hello-20002/test-springcloud-hello-20002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-springcloud-ribbon-consumer-20010/test-springcloud-ribbon-consumer-20010.iml" filepath="$PROJECT_DIR$/test-springcloud-ribbon-consumer-20010/test-springcloud-ribbon-consumer-20010.iml" />
+    </modules>
+  </component>
+</project>
