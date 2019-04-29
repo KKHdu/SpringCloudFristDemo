@@ -19,7 +19,7 @@ public class ConsumerController {
 	public String helloConsumer() {
 		log.info("需要调用自己的类----------->");
 		String result = helloService.helloConsumer();
-		log.info("返回值："+result);
+		System.out.println("返回值："+result);
 		return result;
 	}
 	

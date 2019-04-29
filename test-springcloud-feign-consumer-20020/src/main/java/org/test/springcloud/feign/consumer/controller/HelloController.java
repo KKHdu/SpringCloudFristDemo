@@ -12,6 +12,11 @@ public class HelloController {
 
 	@RequestMapping(value = "/feign-consumer")
 	public String hello() {
-		return helloService.hello();
+		String a = "来了老弟";
+// 		String re1 = helloService.hello();
+		String re2 = helloService.index(a);
+//		System.out.println(re1);
+		System.out.println(re2);
+		return re2;
 	}
 }
